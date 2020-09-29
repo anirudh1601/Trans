@@ -14,5 +14,5 @@ class Hello(object):
 
 
 translate=input("enter the text")
-lang="tamil"
+lang=input("enter language")
 print(Hello(translate,lang))
